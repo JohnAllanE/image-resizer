@@ -9,7 +9,7 @@ A Python utility for resizing images to consistent dimensions and formats while 
 - Accepts a defined set of input extensions for batch processing
 - Output to JPEG (default) or WebP format
 - Configurable width (default 1000px) and quality settings
-- Normalizes output to 8-bit RGB
+- Normalizes output to 8-bit depth and RGB colourspace
 - CLI interface
 
 ## Installation
