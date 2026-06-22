@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+validation/output/
+tmp-input/
+tmp-output/
+.DS_Store
